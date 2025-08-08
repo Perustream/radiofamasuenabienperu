@@ -1,0 +1,20 @@
+{
+  "name": "Radio Fama - Suena Bien",
+  "short_name": "Radio Fama",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#28a745",
+  "theme_color": "#28a745",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/3rsF6tJr/1754598461884.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/3rsF6tJr/1754598461884.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
